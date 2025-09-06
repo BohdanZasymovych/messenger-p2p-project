@@ -6,6 +6,9 @@ A secure, end-to-end encrypted peer-to-peer messaging application with offline m
 
 Messenger P2P is a modern messaging platform that combines the security of end-to-end encryption with the flexibility of both peer-to-peer and server-relayed messaging. Built with privacy and security in mind, it ensures your communications remain private through strong cryptographic algorithms.
 
+#### UI of an application:
+![MessengerUI](chatUI.jpg)
+
 ### Key Features
 
 - **End-to-End Encryption**: All messages are encrypted using XSalsa20-Poly1305 and Curve25519 elliptic curve cryptography
