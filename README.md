@@ -85,8 +85,8 @@ Create a `.env` file with the following variables:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/messenger-p2p.git
-   cd messenger-p2p/client
+   git clone https://github.com/yourusername/messenger-p2p-project.git
+   cd messenger-p2p-project/client
    ```
 
 2. Create the .env file with environment variables as described above
